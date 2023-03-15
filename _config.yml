@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: BorderHacks
+description: A Windsor Hackathon
+show_downloads: false
+github:
+  is_project_page: false

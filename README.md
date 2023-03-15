@@ -1,1 +1,3 @@
-# 2023-website
+# BorderHacks is taking a nap right now....
+
+If you're interested in learning more about BorderHacks, or are interested in helping with a new BorderHacks, please send an email over to [css@uwindsor.ca](css@uwindsor.ca)!
